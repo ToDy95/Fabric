@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+}
+.container {
+    margin: 0 auto;
+    padding: 20px;
+
+  }
+.carousel-container{
+    /*display: none;*/
+    max-width: 1024px;
+    margin: 0 auto;
+    padding: 20px;
+}
+.carousel-container svg {
+    float:right;
+}
